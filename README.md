@@ -17,7 +17,7 @@ My ambition is to continually broaden my skills and explore diverse technologies
 
 Feel free to reach out to me anytime via email or just call me
 
-- 🌱 I’m currently learning Font End development 
+- 🌱 I’m currently learning Data Analyst 
 - 📫 How to reach me: denizkosmaz@gmail.com 01794929278 
 - ⚡ Fun fact: Im doing a lot of Weight Training  
 
