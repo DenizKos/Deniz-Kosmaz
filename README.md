@@ -1,9 +1,9 @@
 ## Welcome to my Page 🖐
 ### My name is Deniz Kosmaz 🤓
-### and I am working towards becoming a Data Scientist, My Story:
+### and I am working towards becoming a Programmer, My Story:
 
 
-I'm Deniz Kosmaz, 21 years old, with a clear goal—I aspire to become a Data Scientist. In 2019, I completed my technical diploma in computer science, and as of December 2023, I've successfully concluded my training as an IT system management assistant.
+I'm Deniz Kosmaz, 21 years old, with a clear goal—I aspire to become a programmer. In 2019, I completed my technical diploma in computer science, and as of December 2023, I've successfully concluded my training as an IT system management assistant.
 
 During my apprenticeship, I realized the need to enhance my programming skills beyond the curriculum. Consequently, I took the initiative to teach myself various programming languages. While I've started with front-end development, I consider this just the beginning.
 
